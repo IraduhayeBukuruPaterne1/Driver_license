@@ -1,14 +1,17 @@
 # 🇧🇮 Driver’s License Digital System – Capstone Project
 
-##  Description
+##  ##Description## 
 
-This project is a **full-stack prototype** for digitizing the driver’s license application and verification process in Burundi. It provides an accessible web interface for applicants to verify their identity via OTP or fingerprint (simulated), upload driving school certificates, and receive a QR-embedded digital license. Traffic officers and government agencies can use the backend for real-time license verification.
+this is my capstone project: a digital driver’s license system designed for Burundi.
 
+This project addresses the challenge of slow, centralized, and paper-based license issuance systems, especially for people living in rural areas.
+
+The platform enables citizens to apply for a driver’s license online using their National ID and either an OTP or fingerprint, upload their driving school certificate, and receive a license with a scannable QR code.
 The goal is to **decentralize**, **streamline**, and **digitally secure** public services — starting with licensing.
 
 ---
 
-## 🔗 GitHub Repository
+**GitHub Repository** 
 
 👉 [Click here to view the project repository](https://github.com/IraduhayeBukuruPaterne1/Driver_license)
 
@@ -25,7 +28,7 @@ The goal is to **decentralize**, **streamline**, and **digitally secure** public
 ### 2. **Installation**
 
 ```bash
-**Clone the repository**  
+** Clone the repository** 
 git clone https://github.com/IraduhayeBukuruPaterne1/Driver_license.git
 
 # Navigate to the project folder
