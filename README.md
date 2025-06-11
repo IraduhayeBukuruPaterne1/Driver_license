@@ -14,7 +14,7 @@ The goal is to **decentralize**, **streamline**, and **digitally secure** public
 
 ---
 
-## How to Set Up the Environment
+**How to Set Up the Environment**
 
 ### 1. **Prerequisites**
 - Node.js v18+
@@ -25,7 +25,7 @@ The goal is to **decentralize**, **streamline**, and **digitally secure** public
 ### 2. **Installation**
 
 ```bash
-# Clone the repository
+**Clone the repository**  
 git clone https://github.com/IraduhayeBukuruPaterne1/Driver_license.git
 
 # Navigate to the project folder
