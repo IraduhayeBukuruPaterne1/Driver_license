@@ -49,11 +49,16 @@ npm run dev
 Open your browser and go to:
 http://localhost:3000
 
-🎨 Designs and Visuals
-✅ Figma Mockups & Flow
+ Designs and Visuals
+![Capture d'écran 2025-06-10 225943](https://github.com/user-attachments/assets/5765531c-9a0f-4807-9acb-aa29c816e815)
+![Capture d'écran 2025-06-10 221209](https://github.com/user-attachments/assets/bea2d94b-3872-4578-becb-476107b7b42f)
+
+
 Wireframes & Flowchart: APPLICATION_FLOW.md
 
-Mockup Screenshots: /public/designs/
+Mockup Screenshots: ![Capture d'écran 2025-06-10 225930](https://github.com/user-attachments/assets/d8b0faf4-c50e-4a53-b2e2-11106f35c07b)
+![Capture d'écran 2025-06-10 221209](https://github.com/user-attachments/assets/a995cfea-26ac-43df-bd84-28c0a5201bc2)
+
 
 App Screenshots
 
