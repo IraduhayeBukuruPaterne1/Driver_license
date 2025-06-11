@@ -1,6 +1,6 @@
 # 🇧🇮 Driver’s License Digital System – Capstone Project
 
-## 📌 Description
+##  Description
 
 This project is a **full-stack prototype** for digitizing the driver’s license application and verification process in Burundi. It provides an accessible web interface for applicants to verify their identity via OTP or fingerprint (simulated), upload driving school certificates, and receive a QR-embedded digital license. Traffic officers and government agencies can use the backend for real-time license verification.
 
@@ -14,7 +14,7 @@ The goal is to **decentralize**, **streamline**, and **digitally secure** public
 
 ---
 
-## ⚙️ How to Set Up the Environment
+## How to Set Up the Environment
 
 ### 1. **Prerequisites**
 - Node.js v18+
